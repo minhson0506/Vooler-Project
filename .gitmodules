@@ -1,0 +1,6 @@
+[submodule "Vooler-BackEnd"]
+	path = Vooler-BackEnd
+	url = git@github.com:minhson0506/Vooler-BackEnd.git
+[submodule "Vooler-FrontEnd"]
+	path = Vooler-FrontEnd
+	url = git@github.com:minhson0506/Vooler-FrontEnd.git
